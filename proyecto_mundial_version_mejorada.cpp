@@ -4,8 +4,8 @@
 #include <ctime>// ayuda para la aleatoridad como pivote
 #include <clocale>//para las tildes la ñ y asi 
 using namespace std; 
-
-// ARREGLOS 
+asdasdasdasdasdasdasdasdasdas
+// ARREGLOS awdqweqweqwe
 // 32 selecciones, 5 campos(ID,Bombo,Nombre,Confederacion,ID_DT), 30 letras max
 char selecciones[32][5][30]; 
 
