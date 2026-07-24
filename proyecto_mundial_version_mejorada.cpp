@@ -2,7 +2,7 @@
 #include <cstdlib>// este para la aleatoridad
 #include <cstring>// para cortar la linea y el enter
 #include <ctime>// ayuda para la aleatoridad como pivote
-#include <clocale>//para las tildes la ñ y asi 
+#include <clocale>//para las tildes la Ã± y asi 
 using namespace std; 
 
 // ARREGLOS 
