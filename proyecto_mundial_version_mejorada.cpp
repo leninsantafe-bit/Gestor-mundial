@@ -5,6 +5,7 @@
 #include <clocale>//para las tildes la ñ y asi 
 using namespace std; 
 asdasdasdasdasdasdasdasdasdas
+cambio hecho desde la laptop muajajajajjajajaj muajajajjajaja muajajajajjaja muajajajaj
 ghfcvvjhvhjvhjvjhvb<zdnxfcgj
 // ARREGLOS awdqweqweqwe
 // 32 selecciones, 5 campos(ID,Bombo,Nombre,Confederacion,ID_DT), 30 letras max
